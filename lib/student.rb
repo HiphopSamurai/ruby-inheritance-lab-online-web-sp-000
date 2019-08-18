@@ -1,3 +1,4 @@
-class Student 
+requiring lib/user.rb
+class Student
 
 end
